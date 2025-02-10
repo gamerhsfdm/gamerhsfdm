@@ -84,6 +84,42 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
+<img 
+    align="left" 
+    alt="LUA" 
+    title="LUA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="SQL" 
+        title="SQL"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+        />
+    <img 
+        align="left" 
+        alt="PYTHON" 
+        title="PYTHON"
+        width="30px" 
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+        />
+        <img 
+             align="left" 
+            alt="GIT" 
+            title="GIT"
+            width="30px" 
+            style="padding-right: 10px;"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+            />
+          
+          
+          
+          
           
           
   <br/>      
