@@ -12,7 +12,6 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
   />
-
   <img 
     align="left"
     alt="CSS"
@@ -21,7 +20,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
     />
-    
   <img 
     align="left"
     alt="JS"
@@ -30,8 +28,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
-
-    
   <img 
     align="left"
     alt="TS"
@@ -40,9 +36,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
     />
-          
-
-    
   <img 
     align="left"
     alt="React"
@@ -51,8 +44,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
     />
-
-    
   <img 
     align="left"
     alt="nextjs"
@@ -61,8 +52,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
     />
-          
-
   <img 
     align="left"
     alt="python"
@@ -71,8 +60,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
     />
-          
-    
   <img 
     align="left"
     alt="bootstrap"
@@ -81,8 +68,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" 
     />
-
-    
   <img 
     align="left"
     alt="tailwindcss"
@@ -91,8 +76,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" 
     />
-
-    
   <img 
     align="left"
     alt="git"
@@ -101,8 +84,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
     />
-
-
   <img 
     align="left"
     alt="lua"
@@ -111,8 +92,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
     />
-          
-    
   <img 
     align="left"
     alt="figma"
